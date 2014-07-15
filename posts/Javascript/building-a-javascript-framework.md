@@ -70,5 +70,90 @@
 		- How to implementation
 	- 其他浏览器修复
 	- 事件代理
-
+		- 蛮荒时期
+		- Underneath
+		- dom.findElement
+		- Tests
+		- Adapting the Searcher Class
+		- The Event Delegation Method
+	- NodeList,Collections and Arrays
+		- NodeList and Collections
+		- Converting NodeList into an Array
+		- In the wild
+		- Implemention
+	- 参考资源
+### Ajax
+	- XMLHttpRequest
+		- History
+		- Request Objects 
+		- Sending Requests
+		- Popular APIs
+		- Putting it Together
+	- Cross-Domain Requests
+		- Implementaions in the wild
+		- 规则
+		- API设计
+		- 使用API
+		- 结论
+	- 参考资源
+### 动画
+	- Javascript 动画
+		- animation frameworks
+		- 队列和事件
+		- 动画基础
+	- 基于时间的动画
+		- animating properties
+		- Parsing Style Values
+		- API
+	- Easing
+		- 增加Easing Function Support
+		- 动手写Easing Functions
+	- Animation Helpers
+		- Fade
+	- 色彩支持
+		- 通道
+		- transforms
+		- HighLight辅助
+		- 结论
+	- 移动辅助函数
+	- 链式API
+	- CSS3
+		- CSS3 Transitions
+		- CSS3 Transforms
+		- CSS3 Animations
+		- Animation Performance 问题
+		- 加速器
+	- 特征嗅探
+		- 移动动画使用
+		- Detecting CSS Property Means Move
+		- 参考资源
+### Touch
+	- 支持屏幕Touch
+		- 一个简单的例子:旋转Orientation
+		- Debugging 
+		- 旋转属性
+	- 事件
+		- 状态
+		- 状态和毕达哥拉斯
+### 链式API
+	- 介绍
+		- 测试
+		- 升级Core
+		- 升级turing.dom
+		- DOM ROOT
+	- Namespaces and Chaining 
+		- API
+		- Previously
+		- fakeQuery
+		- Overall Pattern
+	- 链式事件
+		- API design
+		- test
+		- 使用链式事件
+	- 事件句柄和loop scoping
+		- trigger vs bind
+### 特征嗅探
+	- querySelectorAll
+	- 使用特征嗅探
+		- 结论
 
