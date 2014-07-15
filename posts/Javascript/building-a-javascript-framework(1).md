@@ -158,7 +158,15 @@
 		- 结论
 
 ```
+<<<<<<< HEAD:posts/Javascript/building-a-javascript-framework(1).md
 如果您觉有价值，请与我联系，捐助我十几块钱吧，亲们，我会把完整翻译好的PDF发给你的
 支付宝 cxrhphp@qq.com
 或者直接与我联系 2573578564@qq.com
 ```
+=======
+本电子书翻译好之后半年内不会公开
+如果您觉有价值，请与我联系，捐助我十块钱吧，亲们，我会立马把完整翻译好的PDF发给你的，留下您的电子邮箱，以后如果有新好的翻译资料，也会优先与您联系
+支付宝 cxrhphp@qq.com
+或者直接与我联系 2573578564@qq.com
+```
+>>>>>>> 793da2e3292c5451448da25f9449e37feef391ea:posts/Javascript/building-a-javascript-framework.md
