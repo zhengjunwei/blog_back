@@ -195,13 +195,10 @@ jQuery,MooTools和Glow都是模块化的优秀体现，同样的，我们也将�
 它将这样工作:
 
 ```
+
   js > load('turing.core.js');
   js > print(turing.VERSION);
+  
 
 ```
-
-
-
-
-
 
