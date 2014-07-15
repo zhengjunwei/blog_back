@@ -9,7 +9,7 @@
                 "其他": "posts"
         },        
         "perpage"   : 10,
-        "template"    : "phase", // default、slate、tactile、phase、pithiness、greyshade
+        "template"    : "pithiness", // default、slate、tactile、phase、pithiness、greyshade
         "types"     : {
                 "\\.(md||markdown)$"   : "markdown", 
                 "\\.(js||css||json)$"  : "code",
