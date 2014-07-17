@@ -109,3 +109,6 @@ and spin(), which modifies the hue of the color.
 #shape3{ .RoundedSquare(60px) }
 ```
 
+注意几点:
++ 注意，mixin和嵌套的区别在于嵌套必须要带大括号的。
++ （fuck:defaultFuck）后面的冒号之后的是默认值
