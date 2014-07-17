@@ -17,3 +17,5 @@ zepto,turing.js,underscore,sugar,vue.js(这个是MVVM的),spine.js(作者有书)
 
 
 How time go past! i wish i will code everyday with the lovely javascript.i want to prove my value to the world !
+世界上最牛的几个js程序员
+http://code.tutsplus.com/articles/30-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151
