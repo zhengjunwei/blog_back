@@ -1,5 +1,6 @@
 关于我的博客
 ====
+之前的博客现已换到github上来了
 
 这是我的博客 [郑俊伟的博客](http://blog.zhengjunwei.com/)，数据都托管在[GitHub](https://github.com/)。
 所有的文章都是用`MarkDown`写的。
