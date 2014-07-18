@@ -1,0 +1,5 @@
+Title: Javascript Promise 为什么这么迷人
+Date: 2014-06-23 13:54:36
+
+The Parse JavaScript SDK now returns jQuery-compatible Promises from most asynchronous methods. Read on to learn what that means.
+Promises” represent the next great paradigm in JavaScript programming. But understanding why they are so great is no simple matter. At its core, aPromiserepresents the result of a task, which may or may not have completed. The only interface requirement of a Promise is having a function calledthen, which can be given callbacks to be called when the promise is fulfilled or has failed. This is outlined in the CommonJS Promises/A proposal. For example, consider saving aParse.Object, which is an asynchronous operation. In the old callback paradigm, your code would look like this:

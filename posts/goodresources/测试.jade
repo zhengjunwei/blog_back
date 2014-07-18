@@ -1,0 +1,14 @@
+/*这样是有效的，会解析为<div>{{post.content}}</div>*/
+div
+    post.content
+
+
+/*doc不是被保护的关键词，会被解析为<div><doc class="content"></doc></div>*/
+div
+    doc.content
+
+/* 如果需要doc也能同post变量一样工作，则要写成*/
+div= doc.content
+/* 或者 */
+div
+    | {{ doc.content}}
