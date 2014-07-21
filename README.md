@@ -32,3 +32,6 @@ http://james.padolsey.com/posts/
 
 
 提高自己的好办法:多写代码，并且把自己写的代码暴露出来，让别人挑错！！！！！一定要多写多写
+
+
+关于正则最好的网址 http://www.regexr.com/
