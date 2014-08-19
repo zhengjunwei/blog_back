@@ -38,3 +38,20 @@ http://james.padolsey.com/posts/
 
 
 网页版 markdow书写工具：http://epiceditor.com/
+_background:red;              只有ie6认得
++background:red;              ie6/7可认
+*background:red;              ie6/7可认
+background:red\0;             ie8+
+background:red\9;             ie皆可认
+background:blue!important;    除了ie6都认得(包括其它浏览器),如果important跟重名属性不在一个区域则ie6也支持)
+:root .ww{background: #000;}  除ie9+认得(包括其它浏览器)
+*html .ww{background: #000;}  只有ie6认得
+*+html .ww{background: #000;} 只有ie7认得
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {}
+仅webkit能认
+
+
+fade时，要png背景不能为本身元素。否则ie会有黑背景..内部是png超出外转边界也会出现黑背景且开始时显示外围内的内容。到全显示的时候一下再显示出来
+
+ie8中用js创建的元素不能于:first-letter。要不然会卡死
